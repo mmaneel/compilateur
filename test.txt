@@ -1,0 +1,8 @@
+prog try{
+INT x= 8
+INT y = y + x
+VAR y = y + 5
+while(x<11){
+ x++
+}
+}
